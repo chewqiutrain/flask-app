@@ -1,0 +1,5 @@
+[2021-08-07 18:27:47,676 - myapp - DEBUG: debug]
+[2021-08-07 18:27:47,676 - myapp - ERROR: error]
+[2021-08-07 18:27:47,676 - myapp - INFO: info]
+[2021-08-07 18:27:47,676 - MyService - INFO: Simulating call to database, sleeping for 2 seconds.]
+[2021-08-07 18:27:49,680 - myapp - INFO: Returned result from database after 2 seconds]
